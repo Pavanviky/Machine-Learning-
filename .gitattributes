@@ -1,2 +1,4 @@
 *.zip filter=lfs diff=lfs merge=lfs -text
 *.csv filter=lfs diff=lfs merge=lfs -text
+8_DigitRecognitionusing_RANDOMFOREST/8_DigitRecognitionusing_RANDOMFOREST/digit.csv filter=lfs diff=lfs merge=lfs -text
+CreditCardFraudDetection.zip filter=lfs diff=lfs merge=lfs -text
